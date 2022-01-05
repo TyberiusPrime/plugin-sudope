@@ -1,5 +1,12 @@
 ## sudope Plugin for Fish Shell
 
+
+### Changes
+
+this fork fixed the keybinding to ctrl-s even on newer fish.
+Couldn't get `\cs` to be generated correctly from home-manager/nix.
+
+
 ### About
 
 A fish shell port of oh-my-zsh's [sudo plugin]
